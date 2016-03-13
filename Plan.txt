@@ -1,0 +1,14 @@
+There are about six weeks remaining from now.
+
+Week 1: going to the cs241 course and watch the tutorial.
+
+Week 2 (spring break): finish learning the tutorial and begin to learn the 
+actual c implementation for TCP/IP from both cs241 course github and the "Introduction to Sockets Programming in C using TCP/IP" PDF file I found on google.
+
+Week 3: finish learning from the PDF file, and furthur learn from the lecture, then begin to implement my c++ TCP/IP networking functions.
+
+Week 4: coding.
+
+Week 5: finish coding and make a small demonstration program to demonstrate my neworking functions.
+
+Week 6: Done.

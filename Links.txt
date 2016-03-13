@@ -1,0 +1,7 @@
+Mike meyers' CompTIA Network + Exam Prep: 
+http://www.lynda.com/search?q=Mike+Meyers+networking
+
+Introduction to Sockets Programming in C using TCP/IP:
+http://www.csd.uoc.gr/~hy556/material/tutorials/cs556-3rd-tutorial.pdf
+
+
